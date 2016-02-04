@@ -1,6 +1,4 @@
 test
 git 
 
-my name is blue. version 1
-
-you can call me Blue Baney version 2
+my name is blue.
